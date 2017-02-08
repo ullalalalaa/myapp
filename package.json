@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "My App",
+  "main": "myapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ullalalalaa/myapp.git"
+  },
+  "author": "Ulla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ullalalalaa/myapp/issues"
+  },
+  "homepage": "https://github.com/ullalalalaa/myapp#readme",
+  "devDependencies": {
+    "react": "^15.4.2"
+  }
+}
