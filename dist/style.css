@@ -1,0 +1,18 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(232, 215, 249);
+}
+.picogram {
+  height: 100px;
+  background: rgba(202, 235, 246, 1);
+}
+.picogram-title {
+  background: #369;
+}
+.picogram-title:after {
+  content: '*';
+}
